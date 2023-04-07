@@ -5,8 +5,8 @@ export const projects = [
     description:
       "Task management tool with focus on short repetitive tasks for teams with gamification",
     image: "./taskapp.png",
-    link: "https://teamwork-task-management.herokuapp.com",
-    gitHubLink: "https://github.com/echugreeva/DI-Bootcamp-Stage1/tree/toCheck/DI_JS_pt/finalProject/server"
+    link: "https://fp-task-management-app.onrender.com",
+    gitHubLink: "https://github.com/echugreeva/di-final-project"
   },
   {
     title: "Weather App ",
@@ -29,22 +29,6 @@ export const projects = [
   }
 ];
 
-export const testimonials = [
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
-  },
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
-  },
-];
 
 export const skills = [
   "HTML/CSS",
