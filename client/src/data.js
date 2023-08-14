@@ -37,7 +37,7 @@ export const skills = [
   "Redux",
   "Node.js",
   "PostgreSQL",
-  "Bootstrap, Material UI, Tachyons, TailwindCSS ",
+  "Bootstrap, Material UI, Tachyons, TailwindCSS, Ant Design",
   "Google ads scripts"
 
 ];
