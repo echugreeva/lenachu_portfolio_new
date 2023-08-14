@@ -3,7 +3,7 @@ export const projects = [
     title: "Elementor AI Hackathon (*2nd place)",
     subtitle: "User dashboard with React & Ant Design",
     description:
-      "User dashboard & onboarding flow front end. Addition to core product",
+      "User dashboard & onboarding flow to create & manage chatbots (Front End). Addition to the core product",
     image: "./chatbot.png",
     link: "https://insite-dashboard.pages.dev/bots",
     gitHubLink: "https://github.com/echugreeva/myelemlayout"
