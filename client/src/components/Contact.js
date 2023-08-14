@@ -10,8 +10,8 @@ const Contact = () => {
 
   const sendEmail = (e) => {
     e.preventDefault();
-
-    emailjs.sendForm('service_hnb64cj', 'template_rei8b4b', form.current, 'ar7v6N0DKZMCsBQlx')
+    // ('service_hnb64cj', 'template_rei8b4b', form.current, 'ar7v6N0DKZMCsBQlx')
+    emailjs.sendForm(process.env.REACT_APP_MAILJS_SERVICE, REACT_APP_MAILJS_TEMPLATE, form.current, process.env.REACT_APP_MAILJS)
       .then((result) => {
         console.log(result.text);
         alert(`your message is sent`)
