@@ -43,7 +43,7 @@ export default function Timeline() {
                                 </div>
                                 <div className="block-inline p-6 rounded-lg shadow-lg bg-gray-100 max-w-md ml-6 mb-10 w-80">
                                     <div className="flex justify-between mb-4">
-                                        <p href="#!" className="font-medium text-pink-900 hover:text-pink-700 focus:text-pink-800 duration-300 transition ease-in-out text-sm">AI HAckathon 2023</p>
+                                        <p href="#!" className="font-medium text-pink-900 hover:text-pink-700 focus:text-pink-800 duration-300 transition ease-in-out text-sm">AI Hackathon 2023</p>
                                         <p href="#!" className="font-medium text-pink-900 hover:text-pink-700 focus:text-pink-800 duration-300 transition ease-in-out text-sm">2023</p>
                                     </div>
                                     <p className="text-gray-700 mb-6">Front End Developer</p>
