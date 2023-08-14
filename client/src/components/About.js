@@ -19,8 +19,7 @@ export default function About() {
           </h1>
           <h2></h2>
           <p className="mb-8 leading-relaxed">
-            A fullstack developer experienced in JavaScript based programming with a background in web creation,
-            ed tech & cyber security industries. Passionate about user experience and making an impact.
+          A JavaScript Full Stack Developer with a background in web creation, educational tech, and the cybersecurity industries. I'm passionate about enhancing user experiences and creating impactful products.
 
           </p>
           <div className="flex justify-center">
