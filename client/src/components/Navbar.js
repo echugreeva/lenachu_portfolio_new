@@ -69,7 +69,7 @@ export default function Navbar() {
             <a href="#education" className="mr-5 hover:text-white">
               Education
             </a>
-            <a href="https://github.com/echugreeva?tab=repositories" target="_blank" className="hover:text-white text-green-300"><BsGithub className="w-8 h-8 ml-3 " /></a>
+            <a href="https://github.com/echugreeva" target="_blank" className="hover:text-white text-green-300"><BsGithub className="w-8 h-8 ml-3 " /></a>
             <a href="https://www.linkedin.com/in/elena-chugreeva-45b282103/" target="_blank" className="hover:text-white text-blue-300"><BsLinkedin className="w-8 h-8 ml-3" /></a>
           </div>
 

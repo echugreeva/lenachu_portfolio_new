@@ -68,7 +68,7 @@ const Contact = () => {
                 Tel Aviv, Israel
               </p>
               <div className="flex flex-wrap">
-                <a className="title-font font-semibold text-white tracking-widest text-s mt-4 inline-flex" href="https://github.com/echugreeva?tab=repositories" target="_blank"><BsGithub className="hover:text-pink-500 w-7 h-7 " /></a>
+                <a className="title-font font-semibold text-white tracking-widest text-s mt-4 inline-flex" href="https://github.com/echugreeva" target="_blank"><BsGithub className="hover:text-pink-500 w-7 h-7 " /></a>
 
                 <a className="title-font font-semibold text-white tracking-widest text-s mt-4" href="https://www.linkedin.com/in/elena-chugreeva-45b282103/" target="_blank"><BsLinkedin className="hover:text-pink-500 w-7 h-7 ml-4" /></a>
               </div>
