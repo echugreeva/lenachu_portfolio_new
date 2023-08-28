@@ -1,5 +1,14 @@
 export const projects = [
   {
+    title: "Trex - Travel Tinder",
+    subtitle: "Tinder-like CRUD App built with React, Firebase & MUI",
+    description:
+      "Sign up and and decide to which trips you want to join or create your own trip. Connect with other travelers",
+    image: "./trex.png",
+    link: "https://trex-e2rh.onrender.com/",
+    gitHubLink: "https://github.com/echugreeva/trex"
+  },
+  {
     title: "Elementor AI Hackathon (*2nd place)",
     subtitle: "User dashboard with React & Ant Design",
     description:
@@ -8,15 +17,8 @@ export const projects = [
     link: "https://insite-dashboard.pages.dev/bots",
     gitHubLink: "https://github.com/echugreeva/myelemlayout"
   },
-  {
-    title: "Task management App ",
-    subtitle: "Full stack App built with React, Node.js & PostgreSQL",
-    description:
-      "Task management tool with focus on short repetitive tasks for teams with gamification",
-    image: "./taskapp.png",
-    link: "https://fp-task-management-app.onrender.com",
-    gitHubLink: "https://github.com/echugreeva/di-final-project"
-  },
+  
+  
   {
     title: "Weather App ",
     subtitle: "Weather API, React & LocalStorage, Tachyons",
@@ -35,7 +37,16 @@ export const projects = [
     image: "./GA-Scripts.jpg",
     link: "https://github.com/echugreeva/googleAds",
     gitHubLink: "https://github.com/echugreeva/googleAds"
-  }
+  },
+  {
+    title: "Task management App ",
+    subtitle: "Full stack App built with React, Node.js & PostgreSQL",
+    description:
+      "Task management tool with focus on short repetitive tasks for teams with gamification",
+    image: "./taskapp.png",
+    link: "https://fp-task-management-app.onrender.com",
+    gitHubLink: "https://github.com/echugreeva/di-final-project"
+  },
 ];
 
 
@@ -45,6 +56,7 @@ export const skills = [
   "React",
   "Redux",
   "Node.js",
+  "Firebase",
   "PostgreSQL",
   "Bootstrap, Material UI, Tachyons, TailwindCSS, Ant Design",
   "Google ads scripts"
