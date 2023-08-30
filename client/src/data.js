@@ -3,7 +3,7 @@ export const projects = [
     title: "Trex - Travel Tinder",
     subtitle: "Tinder-like CRUD App built with React, Firebase & MUI",
     description:
-      "Sign up and and decide to which trips you want to join or create your own trip. Connect with other travelers",
+      "Sign up and pick trips you want to join or create your own trip. Connect with other travelers",
     image: "./trex.png",
     link: "https://trex-e2rh.onrender.com/",
     gitHubLink: "https://github.com/echugreeva/trex"
