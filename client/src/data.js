@@ -56,6 +56,7 @@ export const skills = [
   "React",
   "Redux",
   "Node.js",
+  "PHP",
   "Firebase",
   "PostgreSQL",
   "Bootstrap, Material UI, Tachyons, TailwindCSS, Ant Design",
