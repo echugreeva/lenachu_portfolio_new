@@ -60,6 +60,7 @@ export const skills = [
   "Firebase",
   "PostgreSQL",
   "Bootstrap, Material UI, Tachyons, TailwindCSS, Ant Design",
+  "Playwright",
   "Google ads scripts"
 
 ];
